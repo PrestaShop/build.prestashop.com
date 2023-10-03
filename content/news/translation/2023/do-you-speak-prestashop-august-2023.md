@@ -91,15 +91,15 @@ Indeed, some editing and rewriting may be going on, but the percentage of transl
 
 ## Translating PrestaShop: documentation
 
-Ever had a question regarding the translation project but never knew where to look exactly?  We've taken all your comments and suggestions and put them into a specific documentation, dedicated to you, translators! 📖
+Ever had a question regarding the translation project but never knew where to look exactly?  We've taken all your comments and suggestions and put them into a specific document, dedicated to you, translators! 📖
 
 In it, you'll find everything about Crowdin and documentation translations, as well as the project's Terms of Use along with a few useful resources, including the PrestaShop glossary.
 
 You can access the translator documentation anytime [here](https://docs.prestashop-project.org/translating-prestashop/).
 
-Feel free to let us know if you have any suggestions or questions by [sending us an email](mailto:translation@prestashop.com) 📩
-
 ## Let’s keep in touch!
+
+Feel free to let us know if you have any suggestions or questions by [sending us an email](mailto:translation@prestashop.com) 📩
 
 If you have not joined us on Crowdin yet, [it is never too late](https://crowdin.com/project/prestashop-official)! :wink:
 
